@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Anannya Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">नमस्ते 🙏, I'm Anannya Sharma</h1>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anannyasharma17&label=Profile%20views&color=0e75b6&style=flat" alt="anannyasharma17" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anannyasharma17" alt="anannyasharma17" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/anannya_sharma_" target="blank"><img src="https://img.shields.io/twitter/follow/anannya_sharma_?logo=twitter&style=for-the-badge" alt="anannya_sharma_" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📝 I regularly write articles on [https://medium.com/@Anannya.Sharma](https://medium.com/@Anannya.Sharma)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **anannyahsarma8300@gmail.com**
 
@@ -15,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/anannya_sharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anannya_sharma_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anannya-sharma-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anannya-sharma-/" height="30" width="40" /></a>
 <a href="https://medium.com/@anannya.sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anannya.sharma" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucznvxhf2lnxsgrxvnepwcjq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucznvxhf2lnxsgrxvnepwcjq" height="30" width="40" /></a>
@@ -28,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anannyasharma17&show_icons=true&locale=en" alt="anannyasharma17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anannyasharma17&" alt="anannyasharma17" /></p>
-
