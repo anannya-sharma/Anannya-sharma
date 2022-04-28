@@ -41,6 +41,8 @@ src="https://img.shields.io/github/followers/Anannyasharma17?logo=github&style=f
 ### Badges
 
 <b>My GitHub Stats</b>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="http://www.github.com/Anannyasharma17"><img src="https://github-readme-stats.vercel.app/api?username=Anannyasharma17&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anannyasharma17's GitHub stats" /></a>
