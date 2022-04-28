@@ -1,7 +1,7 @@
-Hi 👋 My name is Anannya Sharma
+                                                                  नमस्ते🙏 My name is Anannya Sharma
 ===============================
 
-A passionate Full Stack Web Developer from India
+                                                            A passionate Full Stack Web Developer from India
 ------------------------------------------------
 
 * 🌍  I'm based in Noida, India
