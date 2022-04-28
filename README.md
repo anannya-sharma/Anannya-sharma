@@ -8,7 +8,7 @@ A passionate Full Stack Web Developer from India
 * ✉️  You can contact me at [anannyahsarma8300@gmail.com](mailto:anannyahsarma8300@gmail.com)
 * 🧠  I'm learning React, Redux
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm secretly a actor.. but don't tell anyone 😝
+* ⚡  I'm secretly an actor.. but don't tell anyone 😝
 
 <a href="https://www.twitter.com/anannya_sharma_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anannya_sharma_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
