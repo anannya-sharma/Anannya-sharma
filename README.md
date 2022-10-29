@@ -1,16 +1,12 @@
 नमस्ते 🙏 My name is Anannya Sharma
 ===============================
-<h3 align="center">A passionate Full Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anannya-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="anannya-sharma" /> </p>
+<h3 align="left">A passionate Full Stack developer from India</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@Anannya.Sharma](https://medium.com/@Anannya.Sharma)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Python, Nodejs, MongoDB, Express**
 
 - 📫 How to reach me **anannyasharma8300@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QvGeCcPQ4Qdp6v1Jmj4j1kX-KQll_f3x/view?usp=sharing](https://drive.google.com/file/d/1QvGeCcPQ4Qdp6v1Jmj4j1kX-KQll_f3x/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
