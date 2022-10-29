@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/Anannyasharma17?logo=github&style=f
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<a href="http://www.github.com/Anannyasharma17"><img src="https://github-readme-stats.vercel.app/api?username=Anannyasharma17&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Anannyasharma17's GitHub stats" /></a>
+<a href="http://www.github.com/anannya-sharma"><img src="https://github-readme-stats.vercel.app/api?username=Anannyasharma17&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Anannyasharma17's GitHub stats" /></a>
 
 <a href="http://www.github.com/Anannyasharma17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anannyasharma17&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
